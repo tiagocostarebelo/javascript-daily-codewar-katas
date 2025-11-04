@@ -46,7 +46,8 @@ Writing meaningful commit messages and documentation
 
 ## Progress Log
 
-**2025-11-03** Started the daily kata challenge — first problem: Vowel Count.
+**2025-11-03** Solved the daily kata challenge — Vowel Count.
+**2025-11-04** Solved the daily kata challenge - DNAtoRNA conversion
 
 
 ## How to Contribute
