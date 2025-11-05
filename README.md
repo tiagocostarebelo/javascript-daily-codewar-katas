@@ -48,6 +48,7 @@ Writing meaningful commit messages and documentation
 
 **2025-11-03** Solved the daily kata challenge — Vowel Count.
 **2025-11-04** Solved the daily kata challenge - DNAtoRNA conversion
+**2025-11-05** Solved the daily kata challenge - Is it a Palindrome
 
 
 ## How to Contribute
