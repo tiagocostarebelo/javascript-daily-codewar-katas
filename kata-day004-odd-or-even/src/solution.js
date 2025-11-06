@@ -20,8 +20,8 @@
  * @returns { str } - Returns a string with "even" or "odd", depending on the sum of the array elements 
  * 
  * @example
- * isPalindrome("madam"); // Returns: "true"
- * isPalindrome("joy"); // Returns: "false"
+ * oddOrEven([0, 1, 4]); // Returns: "odd"
+ * oddOrEven([]);        // Returns: "even"
  */
 
 export function oddOrEven(array) {
