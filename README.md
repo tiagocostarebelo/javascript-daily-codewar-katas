@@ -53,6 +53,7 @@ Writing meaningful commit messages and documentation
 **2025-11-07** Solved the daily kata challenge - Final Grade Calculation
 **2025-11-08** Solved the daily kata challenge - Sort and Star
 **2025-11-09** Solved the daily kata challenge - Array.diff
+**2025-11-10** Solved the daily kata challenge - Square Every Digit
 
 
 ## How to Contribute
