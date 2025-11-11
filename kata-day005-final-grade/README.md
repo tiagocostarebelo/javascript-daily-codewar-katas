@@ -12,7 +12,7 @@ This function should return a number (final grade). There are four types of fina
 0, in other cases
 
 
-**Problem source:** [Codewards - Final Grade Calculation](https://www.codewars.com/kata/5ad0d8356165e63c140014d4/)
+**Problem source:** [Codewars - Final Grade Calculation](https://www.codewars.com/kata/5ad0d8356165e63c140014d4/)
 
 ## Examples
 

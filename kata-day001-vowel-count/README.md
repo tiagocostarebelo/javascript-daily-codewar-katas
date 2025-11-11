@@ -3,7 +3,7 @@ The challenge:
 Return the number (count) of vowels in a given string, considering a, e, i, o, u as the vowels (not y).
 The input string will only consist of lower case letters and/or spaces.
 
-**Problem source:** [Codewards - Vowel Count Kata](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
+**Problem source:** [Codewars - Vowel Count Kata](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
 
 ## Examples
 

@@ -4,7 +4,7 @@ Write a function that checks if a given string (case insensitive) is a palindrom
 
 A palindrome is a word, number, phrase, or other sequence of symbols that reads the same backwards as forwards, such as madam or racecar.
 
-**Problem source:** [Codewards - Is it a Palindrome](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4/)
+**Problem source:** [Codewars - Is it a Palindrome](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4/)
 
 ## Examples
 
