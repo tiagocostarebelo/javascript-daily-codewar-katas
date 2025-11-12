@@ -55,6 +55,7 @@ Writing meaningful commit messages and documentation
 **2025-11-09** Solved the daily kata challenge - Array.diff
 **2025-11-10** Solved the daily kata challenge - Square Every Digit
 **2025-11-11** Solved the daily kata challenge - Replace with Alphabet Position
+**2025-11-12** Solved the daily kata challenge - Tribonacci sequence
 
 
 ## How to Contribute
