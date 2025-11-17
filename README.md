@@ -60,6 +60,7 @@ Writing meaningful commit messages and documentation
 **2025-11-14** Solved the daily kata challenge - Duplicate Encoder
 **2025-11-15** Solved the daily kata challenge - Disemvowel Trolls
 **2025-11-16** Solved the daily kata challenge - Unique in order
+**2025-11-17** Solved the daily kata challenge - Consecutive strings
 
 
 ## How to Contribute
