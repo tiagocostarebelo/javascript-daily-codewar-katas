@@ -46,21 +46,21 @@ Writing meaningful commit messages and documentation
 
 ## Progress Log
 
-**2025-11-03** Solved the daily kata challenge — Vowel Count.
-**2025-11-04** Solved the daily kata challenge - DNAtoRNA conversion
-**2025-11-05** Solved the daily kata challenge - Is it a Palindrome
-**2025-11-06** Solved the daily kata challenge - Odd or Even?
-**2025-11-07** Solved the daily kata challenge - Final Grade Calculation
-**2025-11-08** Solved the daily kata challenge - Sort and Star
-**2025-11-09** Solved the daily kata challenge - Array.diff
-**2025-11-10** Solved the daily kata challenge - Square Every Digit
-**2025-11-11** Solved the daily kata challenge - Replace with Alphabet Position
-**2025-11-12** Solved the daily kata challenge - Tribonacci sequence
-**2025-11-13** Solved the daily kata challenge - List Filtering
-**2025-11-14** Solved the daily kata challenge - Duplicate Encoder
-**2025-11-15** Solved the daily kata challenge - Disemvowel Trolls
-**2025-11-16** Solved the daily kata challenge - Unique in order
-**2025-11-17** Solved the daily kata challenge - Consecutive strings
+**2025-11-03** **kata-day001** Solved the daily kata challenge — Vowel Count.
+**2025-11-04** **kata-day002** Solved the daily kata challenge - DNAtoRNA conversion
+**2025-11-05** **kata-day003** Solved the daily kata challenge - Is it a Palindrome
+**2025-11-06** **kata-day004** Solved the daily kata challenge - Odd or Even?
+**2025-11-07** **kata-day005** Solved the daily kata challenge - Final Grade Calculation
+**2025-11-08** **kata-day006** Solved the daily kata challenge - Sort and Star
+**2025-11-09** **kata-day007** Solved the daily kata challenge - Array.diff
+**2025-11-10** **kata-day008** Solved the daily kata challenge - Square Every Digit
+**2025-11-11** **kata-day009** Solved the daily kata challenge - Replace with Alphabet Position
+**2025-11-12** **kata-day010** Solved the daily kata challenge - Tribonacci sequence
+**2025-11-13** **kata-day011** Solved the daily kata challenge - List Filtering
+**2025-11-14** **kata-day012** Solved the daily kata challenge - Duplicate Encoder
+**2025-11-15** **kata-day013** Solved the daily kata challenge - Disemvowel Trolls
+**2025-11-16** **kata-day014** Solved the daily kata challenge - Unique in order
+**2025-11-17** **kata-day015** Solved the daily kata challenge - Consecutive strings
 
 
 ## How to Contribute
