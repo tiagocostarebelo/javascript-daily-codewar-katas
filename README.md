@@ -61,6 +61,7 @@ Writing meaningful commit messages and documentation
 **2025-11-15** **kata-day013** Solved the daily kata challenge - Disemvowel Trolls
 **2025-11-16** **kata-day014** Solved the daily kata challenge - Unique in order
 **2025-11-17** **kata-day015** Solved the daily kata challenge - Consecutive strings
+**2025-11-18** **kata-day016** Solved the daily kata challenge - Highest Scoring Word
 
 
 ## How to Contribute
