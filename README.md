@@ -63,7 +63,8 @@ Writing meaningful commit messages and documentation
 **2025-11-17** **kata-day015** Solved the daily kata challenge - Consecutive strings
 **2025-11-18** **kata-day016** Solved the daily kata challenge - Highest Scoring Word
 **2025-11-19** **kata-day017** Solved the daily kata challenge - Detect Pangram
-**2025-11-20** **kata-day018** Solved the daily kata challenge - Detect Pangram
+**2025-11-20** **kata-day018** Solved the daily kata challenge - Persistent Bugger
+**2025-11-21** **kata-day019** Solved the daily kata challenge - Find the Next Perfect Square
 
 
 ## How to Contribute
