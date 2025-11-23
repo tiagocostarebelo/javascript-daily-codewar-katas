@@ -66,6 +66,7 @@ Writing meaningful commit messages and documentation
 **2025-11-20** **kata-day018** Solved the daily kata challenge - Persistent Bugger
 **2025-11-21** **kata-day019** Solved the daily kata challenge - Find the Next Perfect Square
 **2025-11-22** **kata-day020** Solved the daily kata challenge - The Supermarket Queue
+**2025-11-23** **kata-day021** Solved the daily kata challenge - Keep Hydrated
 
 
 ## How to Contribute
