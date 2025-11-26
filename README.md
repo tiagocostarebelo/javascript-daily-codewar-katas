@@ -69,6 +69,7 @@ Writing meaningful commit messages and documentation
 **2025-11-23** **kata-day021** Solved the daily kata challenge - Keep Hydrated
 **2025-11-24** **kata-day022** Solved the daily kata challenge - Growth of a Population
 **2025-11-25** **kata-day023** Solved the daily kata challenge - Two Sum
+**2025-11-26** **kata-day024** Solved the daily kata challenge - Find the Stray Number
 
 
 ## How to Contribute
