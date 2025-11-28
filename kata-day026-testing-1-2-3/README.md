@@ -22,7 +22,8 @@ n: value
 ```
 
 Mapping is the ideal tool here since you're transforming each element into a new one.
-You don’t actually need an explicit empty-array check — map() already returns an empty array when given one. Keeping the function small and expressive is the better tradeoff.
+Because map() already returns an empty array when given one, a check for an empty array is not needed.
+Keeping the function small and expressive is the better tradeoff.
 
 
 ## Final Solution
