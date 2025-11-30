@@ -73,6 +73,7 @@ Writing meaningful commit messages and documentation
 **2025-11-27** **kata-day025** Solved the daily kata challenge - What is between?
 **2025-11-28** **kata-day026** Solved the daily kata challenge - Testing 1-2-3
 **2025-11-29** **kata-day027** Solved the daily kata challenge - The Highest Profit Wins
+**2025-11-30** **kata-day028** Solved the daily kata challenge - Welcome
 
 
 ## How to Contribute
