@@ -76,6 +76,7 @@ Writing meaningful commit messages and documentation
 **2025-11-30** **kata-day028** Solved the daily kata challenge - Welcome
 **2025-12-01** **kata-day029** Solved the daily kata challenge - Sum of Number
 **2025-12-02** **kata-day030** Solved the daily kata challenge - String Count
+**2025-12-03** **kata-day031** Solved the daily kata challenge - Count the divisors of a number
 
 
 ## How to Contribute
