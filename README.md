@@ -79,6 +79,7 @@ Writing meaningful commit messages and documentation
 **2025-12-03** **kata-day031** Solved the daily kata challenge - Count the divisors of a number
 **2025-12-04** **kata-day032** Solved the daily kata challenge - Build a pile of cubes
 **2025-12-05** **kata-day033** Solved the daily kata challenge - Number of people in the bus
+**2025-12-06** **kata-day034** Solved the daily kata challenge - String incrementer
 
 
 ## How to Contribute
