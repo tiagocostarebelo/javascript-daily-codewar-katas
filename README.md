@@ -81,6 +81,8 @@ Writing meaningful commit messages and documentation
 **2025-12-05** **kata-day033** Solved the daily kata challenge - Number of people in the bus
 **2025-12-06** **kata-day034** Solved the daily kata challenge - String incrementer
 **2025-12-07** **kata-day035** Solved the daily kata challenge - Money, Money, Money
+**2025-12-08** **kata-day036** Solved the daily kata challenge - Sort Array by String Length
+**2025-12-09** **kata-day037** Solved the daily kata challenge - Training on Basic Mathematical Operations
 
 
 ## How to Contribute
