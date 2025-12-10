@@ -83,6 +83,7 @@ Writing meaningful commit messages and documentation
 **2025-12-07** **kata-day035** Solved the daily kata challenge - Money, Money, Money
 **2025-12-08** **kata-day036** Solved the daily kata challenge - Sort Array by String Length
 **2025-12-09** **kata-day037** Solved the daily kata challenge - Training on Basic Mathematical Operations
+**2025-12-10** **kata-day038** Solved the daily kata challenge - Fake Binary
 
 
 ## How to Contribute
