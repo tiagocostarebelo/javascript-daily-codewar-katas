@@ -85,6 +85,7 @@ Writing meaningful commit messages and documentation
 **2025-12-09** **kata-day037** Solved the daily kata challenge - Training on Basic Mathematical Operations
 **2025-12-10** **kata-day038** Solved the daily kata challenge - Fake Binary
 **2025-12-11** **kata-day039** Solved the daily kata challenge - Is a Number Prime?
+**2025-12-12** **kata-day040** Solved the daily kata challenge - Create a Phone Number
 
 
 ## How to Contribute
