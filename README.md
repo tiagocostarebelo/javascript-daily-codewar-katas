@@ -89,6 +89,7 @@ Writing meaningful commit messages and documentation
 **2025-12-13** **kata-day041** Solved the daily kata challenge - Convert a string to CamelCase
 **2025-12-14** **kata-day042** Solved the daily kata challenge - Does my number look big in this?
 **2025-12-15** **kata-day043** Solved the daily kata challenge - Summing a number's digits
+**2025-12-16** **kata-day044** Solved the daily kata challenge - Gravity Flip
 
 
 ## How to Contribute
