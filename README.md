@@ -90,6 +90,9 @@ Writing meaningful commit messages and documentation
 **2025-12-14** **kata-day042** Solved the daily kata challenge - Does my number look big in this?
 **2025-12-15** **kata-day043** Solved the daily kata challenge - Summing a number's digits
 **2025-12-16** **kata-day044** Solved the daily kata challenge - Gravity Flip
+**2025-12-17** **kata-day045** Solved the daily kata challenge - Regex Validate Pin Code
+**2025-12-18** **kata-day046** Solved the daily kata challenge - Powers of 2
+**2025-12-19** **kata-day047** Solved the daily kata challenge - Bouncing Balls
 
 
 ## How to Contribute
