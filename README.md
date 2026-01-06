@@ -94,6 +94,7 @@ Writing meaningful commit messages and documentation
 **2025-12-18** **kata-day046** Solved the daily kata challenge - Powers of 2
 **2025-12-19** **kata-day047** Solved the daily kata challenge - Bouncing Balls
 **2025-12-22** **kata-day048** Solved the daily kata challenge - Extract the Domain name from the URL
+**2026-01-06** **kata-day049** Solved the daily kata challenge - You're a square
 
 
 ## How to Contribute
