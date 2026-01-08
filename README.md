@@ -96,6 +96,7 @@ Writing meaningful commit messages and documentation
 **2025-12-22** **kata-day048** Solved the daily kata challenge - Extract the Domain name from the URL
 **2026-01-06** **kata-day049** Solved the daily kata challenge - You're a square
 **2026-01-07** **kata-day050** Solved the daily kata challenge - if...else and ternary operator
+**2026-01-08** **kata-day051** Solved the daily kata challenge - Third angle of a triangle
 
 
 ## How to Contribute
