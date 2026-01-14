@@ -99,6 +99,7 @@ Writing meaningful commit messages and documentation
 **2026-01-08** **kata-day051** Solved the daily kata challenge - Third angle of a triangle
 **2026-01-09** **kata-day052** Solved the daily kata challenge - Conditional statement Switch
 **2026-01-13** **kata-day053** Solved the daily kata challenge - Enough is Enough
+**2026-01-14** **kata-day054** Solved the daily kata challenge - Methods of Math - round(), ceil(), floor()
 
 
 ## How to Contribute
